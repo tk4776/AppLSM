@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "MideLSM"
+
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('/Users/karlitroz/Downloads/DocumentosVarios/Proyecto/LSM/interfaz_androidstudio/MideLSM2/unityLibrary')

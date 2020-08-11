@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryGeneral">#438B00</color>
+    <color name="colorPrimaryDarkBarraNotificaciones">#156302</color>
+    <color name="colorAccentContraste">#808387</color>
+    <color name="colorTab">#76BC32</color>
+    <color name="colorFondo">#EFF7E7</color>
+</resources>
