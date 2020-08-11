@@ -1,9 +1,14 @@
 # AppLSM
-Final Project for my BS on Computer Engineering
+Final Project: Computer Engineering
 
 This is a project codeveloped by Jaqueline Martinez and Manuel Ramirez, as a requirement to obtain Bachelors Degree in Computer Engineering.
+
+Technologies involved:
+
 -Using Google ARCore.
+
 -Developed with Unity.
+
 -The UI was developed in Android Studio with Material Design libraries support.
 
 
